@@ -73,7 +73,7 @@ To use variables, they have to be declared using:
 > Variables are of 2 types broadly speaking.
 
 1. Primitives - referenced by values
-2. Non-Primitives - referenced by memory pointers; usually object
+2. Non-Primitives - referenced by memory pointers; usually objects
 
 ---
 
