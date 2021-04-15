@@ -28,7 +28,7 @@ date: 2021-04-15
 2 abilities
 
 > 1. Ability to go through a line of code and execute it, line after line.
-> 2. Ability to store data along the way. This data could be numbers, strings etc
+> 2. Ability to store data along the way. This data could be numbers, strings, even functions etc
 
 
 This data is stored and later accessed via the identifiers.
