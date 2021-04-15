@@ -31,7 +31,8 @@ date: 2021-04-15
 
 
 This data is stored and later accessed via the identifiers.
-![Definition of Identifier](https://developer.mozilla.org/en-US/docs/Glossary/Identifier)
+
+[Definition of Identifier](https://developer.mozilla.org/en-US/docs/Glossary/Identifier)
 
 ---
 
