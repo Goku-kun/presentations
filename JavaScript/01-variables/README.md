@@ -1,7 +1,38 @@
 ---
 title: Variables in JS
-author: Dharmarajsinh Jethva(Goku-kun)
-date: 2021-04-07
+author: Dharma (https://github.com/Goku-kun)
+date: 2021-04-15
+---
+
+```
+
+░░░░░██╗░█████╗░██╗░░░██╗░█████╗░░██████╗░█████╗░██████╗░██╗██████╗░████████╗
+░░░░░██║██╔══██╗██║░░░██║██╔══██╗██╔════╝██╔══██╗██╔══██╗██║██╔══██╗╚══██╔══╝
+░░░░░██║███████║╚██╗░██╔╝███████║╚█████╗░██║░░╚═╝██████╔╝██║██████╔╝░░░██║░░░
+██╗░░██║██╔══██║░╚████╔╝░██╔══██║░╚═══██╗██║░░██╗██╔══██╗██║██╔═══╝░░░░██║░░░
+╚█████╔╝██║░░██║░░╚██╔╝░░██║░░██║██████╔╝╚█████╔╝██║░░██║██║██║░░░░░░░░██║░░░
+░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+```
+
+## Welcome, everyone!
+
+### Let's get going.
+---
+
+# What does JS engine need to run any JS code?
+                            
+                            
+                            
+
+2 abilities
+
+> 1. Ability to go through a line of code and execute it, line after line.
+> 2. Ability to store data along the way. This data could be numbers, strings etc
+
+
+This data is stored and later accessed via the identifiers.
+![Definition of Identifier](https://developer.mozilla.org/en-US/docs/Glossary/Identifier)
+
 ---
 
 
@@ -9,9 +40,9 @@ date: 2021-04-07
 
 > They are containers used to hold values.
 
-> These values could be hold literally or by pointing to a memory location.
-
 > This means all the variables either receive some value or we retrieve some value from them.
+
+> These values could be hold literally or by pointing to a memory location.
 
 
 
@@ -104,21 +135,6 @@ The short answer is no and no, for both, respectively.
 
 Let's understand why is this the case.
 
----
-
-# What does JS engine need to run any JS code?
-                            
-                            
-                            
-
-2 abilities
-
-> 1. Ability to go through a line of code and execute it, line after line.
-> 2. Ability to store data along the way. This data could be numbers, strings etc
-
-
-This data is stored and later accessed via the identifiers.
-![Definition of Identifier](https://developer.mozilla.org/en-US/docs/Glossary/Identifier)
 
 ---
 
@@ -175,7 +191,7 @@ console.log(variable); // [15, 2, 3, 4]
                     
                     
 
-- `const` is like a `let` but with added limitation.
+- `const` is like a `let` but with an added limitation.
 
 - The message `const` tries to convey is that the variable should never be assigned again.
 
