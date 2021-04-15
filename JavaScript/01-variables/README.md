@@ -2,6 +2,7 @@
 title: Variables in JS
 author: Dharma (https://github.com/Goku-kun)
 date: 2021-04-15
+
 ---
 
 ```
@@ -216,4 +217,4 @@ console.log(variable); // [15, 2, 3, 4]
 Contact me:
 - github: https://github.com/Goku-kun
 - twitter: [ @nova_xronos ](https://twitter.com/nova_xronos)
-- discord: **Novaxronos#4244**
+- discord: Novaxronos#4244
