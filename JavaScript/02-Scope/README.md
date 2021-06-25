@@ -145,7 +145,7 @@ otherScope();
 
 ## Scope in JS is a very carefully crafted feature.
  
-### With the right usage, you can create some professional functions like "once" and "memoize".
+## With the right usage, you can create some professional functions like "once" and "memoize".
 
 
 
